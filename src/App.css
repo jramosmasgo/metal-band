@@ -13,3 +13,8 @@
 .bg-banner-products {
     background-image: url('./assets/images/fondo.png');
 }
+
+.bg-banner-background {
+    background-image: url('./assets/images/fondo.png');
+    transform: rotate(180deg);
+}

@@ -9,6 +9,10 @@
             "shop": "Tienda"
         }
     },
+    "footer": {
+        "author": "Pagina creado por ",
+        "rights": "Todos los derechos reservados"
+    },
     "home": {
         "streamingPlatform": {
             "title": "Esuchanos en"
@@ -18,6 +22,9 @@
         },
         "latestReleases": {
             "title": "Proximos Lanzamientos"
+        },
+        "gallery": {
+            "title": "Galeria"
         }
     },
     "button": {

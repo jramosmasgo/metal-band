@@ -9,6 +9,10 @@
             "shop": "Shop"
         }
     },
+    "footer": {
+        "author": "Website by ",
+        "rights": "All Rights Reserved"
+    },
     "home": {
         "streamingPlatform": {
             "title": "Listen to us on"
@@ -18,6 +22,9 @@
         },
         "latestReleases": {
             "title": "Coming up"
+        },
+        "gallery": {
+            "title": "Gallery"
         }
     },
     "button": {

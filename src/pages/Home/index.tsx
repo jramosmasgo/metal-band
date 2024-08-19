@@ -2,6 +2,7 @@ import React from 'react'
 import LatestReleasesSection from './components/LatestReleasesSection'
 import ShopSection from './components/ShopSection'
 import StreamingPlatformsSection from './components/StreamingPlatformsSection'
+import GallerySection from './components/GallerySection'
 
 const HomePage: React.FC = () => {
     return (
@@ -10,6 +11,7 @@ const HomePage: React.FC = () => {
             <LatestReleasesSection />
             <ShopSection />
             <StreamingPlatformsSection />
+            <GallerySection />
         </div>
     )
 
