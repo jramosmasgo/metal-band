@@ -1,0 +1,10 @@
+{
+    "menu": {
+        "home": "Inicio",
+        "about": "Nosotros",
+        "members": "Miembros",
+        "gallery": "Galeria",
+        "events": "Eventos",
+        "shop": "Tienda"
+    }
+}

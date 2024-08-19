@@ -1,0 +1,19 @@
+@import "@fontsource/kanit";
+@import 'tailwindcss/utilities';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'PR Viking';
+    src: url('./assets/fonts/pr_viking/PRViking.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

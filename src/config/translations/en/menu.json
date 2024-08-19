@@ -1,0 +1,10 @@
+{
+    "menu": {
+        "home": "Home",
+        "about": "About",
+        "members": "Members",
+        "gallery": "Gallery",
+        "events": "Events",
+        "shop": "Shop"
+    }
+}

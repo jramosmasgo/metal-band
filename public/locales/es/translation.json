@@ -1,0 +1,26 @@
+{
+    "header": {
+        "menu": {
+            "home": "Inicio",
+            "about": "Nosotros",
+            "members": "Miembros",
+            "gallery": "Galeria",
+            "events": "Eventos",
+            "shop": "Tienda"
+        }
+    },
+    "home": {
+        "streamingPlatform": {
+            "title": "Esuchanos en"
+        },
+        "featured": {
+            "title": "Nuestro productos destacados"
+        },
+        "latestReleases": {
+            "title": "Proximos Lanzamientos"
+        }
+    },
+    "button": {
+        "buy": "Comprar"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "header": {
+        "menu": {
+            "home": "Home",
+            "about": "About",
+            "members": "Members",
+            "gallery": "Gallery",
+            "events": "Events",
+            "shop": "Shop"
+        }
+    },
+    "home": {
+        "streamingPlatform": {
+            "title": "Listen to us on"
+        },
+        "featured": {
+            "title": "Featured"
+        },
+        "latestReleases": {
+            "title": "Coming up"
+        }
+    },
+    "button": {
+        "buy": "buy"
+    }
+}

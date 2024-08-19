@@ -1,0 +1,15 @@
+.text-gradient {
+    background: rgb(255, 204, 24);
+    background: linear-gradient(90deg, rgba(255, 204, 24, 1) 0%, rgba(120, 97, 13, 1) 35%, rgba(255, 221, 100, 1) 76%, rgba(135, 105, 0, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.bg-banner-home {
+    background-image: url('./assets/images/home.png');
+}
+
+.bg-banner-products {
+    background-image: url('./assets/images/fondo.png');
+}
